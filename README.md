@@ -17,7 +17,7 @@ This repository contains Excel and MAT-converted versions of PGLib-OPF `.m` case
 
 ### 👥 Authors
 - Muhammad Dzulqarnain Al Firdausi  
-- Mujahid N. Syed
+- [Mujahid N. Syed](https://ise.kfupm.edu.sa/people/faculty/dr-syed-mujahid/)
 
 ### 📚 Citation
 If you use this Excel/MAT dataset in your research, please cite the following:
